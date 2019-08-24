@@ -1,6 +1,6 @@
-# flutter_complete_guide
+# Flutter Personal Expenses App
 
-A new Flutter project.
+This app will monitor your personal expenses
 
 ## Getting Started
 
